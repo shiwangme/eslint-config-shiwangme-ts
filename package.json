@@ -1,6 +1,6 @@
 {
   "name": "@shiwangme/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shiwangme ESLint for TypeScript",
   "main": "index.js",
   "repository": {

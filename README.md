@@ -69,6 +69,8 @@ parserOptions:
 }
 ```
 
+更多 tsconfig 详情请参阅： <http://www.typescriptlang.org/docs/handbook/tsconfig-json.html>
+
 ### .prettier.yml
 
 ```yaml
