@@ -12,6 +12,9 @@ module.exports = {
     node: true,
     es6: true
   },
+  parserOptions: {
+    ecmaVersion: 2020
+  },
   settings: {
     'import/parsers': {
       '@typescript-eslint/parser': ['.ts']
