@@ -1,6 +1,6 @@
 {
   "name": "@shiwangme/eslint-config",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Shiwangme ESLint for TypeScript",
   "main": "index.js",
   "repository": {
@@ -20,15 +20,15 @@
   },
   "homepage": "https://github.com/shiwangme/eslint-config-shiwangme-ts#readme",
   "devDependencies": {
-    "eslint": "^6.7.2",
-    "eslint-plugin-import": "^2.18.2",
-    "prettier": "^1.19.1",
-    "typescript": "^3.7.2"
+    "eslint": "*",
+    "eslint-plugin-import": "*",
+    "prettier": "*",
+    "typescript": "*"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^2.10.0",
-    "@typescript-eslint/parser": "^2.10.0",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-config-prettier": "^6.7.0"
+    "@typescript-eslint/eslint-plugin": "*",
+    "@typescript-eslint/parser": "*",
+    "eslint-config-airbnb-base": "*",
+    "eslint-config-prettier": "*"
   }
 }
